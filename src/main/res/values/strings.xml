@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Asclepius - Skin Cancer Detector</string>
+    <string name="camera_x">CameraX</string>
+    <string name="image_desc">Image Desc</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="article">Articles</string>
+    <string name="predict">Predict</string>
+    <string name="history">History</string>
+</resources>

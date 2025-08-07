@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_article"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:title="@string/article" />
+    <item
+        android:id="@+id/nav_predict"
+        android:icon="@drawable/baseline_document_scanner_24"
+        android:title="@string/predict" />
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/baseline_history_24"
+        android:title="@string/history" />
+</menu>
